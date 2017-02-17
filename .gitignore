@@ -1,2 +1,6 @@
 *.dat
 results/
+!final.dat
+data/
+!data/position/gps/info.txt
+
